@@ -2,6 +2,10 @@ tsgames
 ==========
 
 The `tsgames` package is a collection of games written by the [TalkStats community](http://www.talkstats.com)
+
+## Contributing
+
+We welcome contributions to this package.  If you are interested in contributing please read the [wiki page](https://github.com/TalkStats/tsgames/wiki/Contributing-to-tsgames) with instructions on our preferred method to submit contributions.
     
 ## Installation
 

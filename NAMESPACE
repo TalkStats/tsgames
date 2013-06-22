@@ -1,2 +1,1 @@
-export(fun)
 export(hangman)

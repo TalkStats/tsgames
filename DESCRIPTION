@@ -10,5 +10,4 @@ Description: A collection of games written in R by members of
 License: GPL-3
 LazyData: TRUE
 Collate:
-    'fun.R'
     'hangman.R'

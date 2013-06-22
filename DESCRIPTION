@@ -8,6 +8,7 @@ Maintainer: Dason Kurkiewicz <dasonk@iastate.edu>
 Description: A collection of games written in R by members of
     the TalkStats community \url{http://www.talkstats.com}
 License: GPL-3
+LazyData: TRUE
 Collate:
     'fun.R'
     'hangman.R'

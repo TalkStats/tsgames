@@ -16,4 +16,7 @@
   The classic wordgame designed to waste hours of your
   time.
 }
+\author{
+  Tyler Rinker
+}
 

@@ -5,6 +5,7 @@
 #' @param reset.score logical.  If \code{TRUE} resets the scoring for the R 
 #' session.
 #' @return Returns a vector of character strings with escaped characters removed.
+#' @author Tyler Rinker
 #' @export
 hangman <- 
 function(reset.score = FALSE) {

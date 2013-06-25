@@ -3,7 +3,9 @@ Type: Package
 Title: TalkStats Games
 Version: 1.0
 Date: 2013-03-03
-Author: Dason Kurkiewicz, Tyler Rinker
+Author: Dason Kurkiewicz <dasonk@iastate.edu>,
+    Tyler Rinker,
+    Marco Visser <marco.d.visser@gmail.com>
 Maintainer: Dason Kurkiewicz <dasonk@iastate.edu>
 Description: A collection of games written in R by members of
     the TalkStats community \url{http://www.talkstats.com}
@@ -11,3 +13,4 @@ License: GPL-3
 LazyData: TRUE
 Collate:
     'hangman.R'
+    'scoRched.R'
